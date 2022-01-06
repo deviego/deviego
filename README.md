@@ -11,19 +11,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm always hungry
 
 
-<div>
-    <a href="https://github.com/deviego">
-    <img heigth="180em" src= "(https://github-readme-stats.vercel.app/api?username=deviego&count_private=true&show_icons=true&?theme=radical )">
-    <a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=deviego&layout=compact&?theme=radical)">
-
+<div align = "center">
+  <a href="https://https://github.com/deviego">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=deviego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=deviego&layout=compact&langs_count=7&theme=dracula" />
+</div>
     
-</div>
-<div>
-<img align="center" alt="Diego-HTML" heigth="30" width="40" src = "[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg)" />
-<img align="center" alt="Diego-css" heigth="30" width="40" src = "[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg)" />
-<img align="center" alt="Diego-js" heigth="30" width="40" src = "[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg)" />
-
-(<https://github.com/deviego/deviego/blob/output/github-contribution-grid-snake.svg>)
-
-
-</div>
+ ##
+    
+    <div>
+	 ! [ Animação de cobra ] (https://github.com/deviego/deviego/blob/output/github-contribution-grid-snake.svg)
+</div>	

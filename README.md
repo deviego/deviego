@@ -19,6 +19,6 @@ Here are some ideas to get you started:
     
  ##
     
-    <div>
-	! [ Animação de cobra ] https://github.com/deviego/deviego/blob/main/.github/fluxos%20de%20trabalho/cobrinha.yml
+   <div>
+	! [ Animação de cobra ] https://github.com/deviego/deviego/blob/main/github-customization-grid-snake.svg/cobrinha.yml
 </div>

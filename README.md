@@ -20,5 +20,5 @@ Here are some ideas to get you started:
  ##
     
    <div>
-	! [ Animação de cobra ] https://github.com/deviego/deviego/blob/main/github-customization-grid-snake.svg/cobrinha.yml
+	! [ Animação de cobra ] (https://github.com/deviego/deviego/blob/main/github-customization-grid-snake.svg/cobrinha.yml)
 </div>

@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 </div>
     
  ##
-    
    <div>
-	 ![ Animação de cobra ] (https://github.com/Deviego/Deviego/blob/output/github-contribution-grid-snake.svg)
+	 ! [ Animação de cobra ] (https://github.com/deviego/deviego/blob/output/github-contribution-grid-snake.svg)
 </div>

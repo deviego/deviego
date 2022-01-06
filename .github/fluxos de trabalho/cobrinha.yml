@@ -11,7 +11,7 @@ empregos :
     roda em : ubuntu-mais recente
     passos :
       # Animação de cobra
-      - usa : Platane / snk @ master
+      - usa : Platane / snk @ main
         id : snake-gif
         com :
           github_user_name : deviego

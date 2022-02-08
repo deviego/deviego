@@ -1,11 +1,11 @@
 ### Olá bem vindo, meu nome é diego, sou programador em evolução 👋
 
 ##
-
-<div align = "center">
+<body width="892px">
+<div align = "center" dir="auto" >
   <a href="https://https://github.com/deviego">
-  <img height = "180em"  src = "https://github-readme-stats.vercel.app/api?username=deviego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=deviego&layout=compact&langs_count=7&theme=dracula" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=deviego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="maxw-idth: 100%" />
+  <img height = "180em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=deviego&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%" />
 </div>
     
 <div style="display: inline_block"><br>
@@ -27,3 +27,4 @@
 ![Snake animation](https://github.com/deviego/deviego/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+</body>

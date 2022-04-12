@@ -18,8 +18,6 @@
   <img align="right" alt="Mario-pic" height="150" style="border-radius:50px;" src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif">
 </div>
 
-
-
 ##
   
 <div> 

@@ -1,8 +1,6 @@
-### Olá bem vindo, meu nome é diego, sou programador Front em evolução 👋
+### Bem vindo 👋
 
-##
-
-  
+## 
 <div display="flex" align="center">
     <a href="https://github.com/deviego">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deviego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

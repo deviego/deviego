@@ -17,13 +17,17 @@
      
   <img align="right" alt="Mario-pic" height="150" style="border-radius:50px;" src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif">
     
+    
 </div>
 
 ##
   
 <div> 	
       <a href="https://www.linkedin.com/in/diego-domingues-28a12a215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+      <a href="https://api.whatsapp.com/send?phone=5521983120628&text=Ol%C3%A1%20Afonso!%20" target="_blank">
+            <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
+        </a>
   <a href = "mailto:diegodomingues266@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
     

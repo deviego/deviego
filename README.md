@@ -15,8 +15,7 @@
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
      
-  <img align="right" alt="Mario-pic" height="150" style="border-radius:50px;" src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif">
-    
+  <img align="right" alt="Notbook and one coffe" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
     
 </div>
 

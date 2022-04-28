@@ -1,12 +1,11 @@
 ### Bem vindo 👋
-
-## 
-<div display="flex" align="center">
+<div align="center">
     <a href="https://github.com/deviego">
-     <img src="https://github-readme-stats.vercel.app/api?username=deviego&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deviego&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues"/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviego&layout=compact&theme=radical"/>
     </a>
-</div>   
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

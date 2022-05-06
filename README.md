@@ -13,7 +13,7 @@
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
      
-  <img align="right" alt="Notbook and one coffe" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+  <img align="right" alt="Notebook and coffe" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
     
 </div>
 
@@ -31,7 +31,7 @@
 </div>
 <div>
     
-![foto do sertificado (2)](https://user-images.githubusercontent.com/73961367/165835059-4c87b23c-b5c6-4233-9b91-b29f5e8ca02a.png)
+![foto do certificado (2)](https://user-images.githubusercontent.com/73961367/165835059-4c87b23c-b5c6-4233-9b91-b29f5e8ca02a.png)
 
     
 </div>

@@ -33,7 +33,8 @@
 </div>
 <div>
     
-![foto do certificado (2)](https://user-images.githubusercontent.com/73961367/165835059-4c87b23c-b5c6-4233-9b91-b29f5e8ca02a.png)
+
+![image](https://user-images.githubusercontent.com/73961367/188898724-43510739-c34a-4b27-a7ee-e9a9de36bee7.png)
 
     
 </div>

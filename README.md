@@ -1,8 +1,8 @@
 
 <div align="center" >
       <a href="https://github.com/deviego" style="display: flex;">
-     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=deviego&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues"/>
-     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=deviego&theme=midnight-purple" alt="diego" />
+     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=deviego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues"/>
+     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=deviego&theme=dracula" alt="diego" />
 </div>
 
 <div align="center"><br>

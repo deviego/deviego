@@ -41,8 +41,7 @@
     
 </div>
 
- ![Snake animation](https://github.com/deviego/deviego/blob/output/github-contribution-grid-snake.svg)
-
+ 
 
 
 

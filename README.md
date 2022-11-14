@@ -9,7 +9,7 @@
 <div ><br>
    
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,sass,tailwind,styledcomponents,bootstrap,figma,markdown,firebase,heroku,aws,mongodb,sqlite,prisma,vite,express,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,tailwind,styledcomponents,figma,markdown,heroku,aws,mongodb,sqlite,vite,express,vscode,git" />
   </a>
      
   <img align="right" alt="Notebook and coffe" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">

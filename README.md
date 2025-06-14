@@ -24,22 +24,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/diego-domingues-28a12a215/" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-dominguesp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
       
-  <a href="https://www.youtube.com/channel/UC57olkpMVuuFvwtQj6zoNKg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="discord logo"/></a>
-      
 </div>
 
 
-<div>
-    
 
-![image](https://user-images.githubusercontent.com/73961367/188898724-43510739-c34a-4b27-a7ee-e9a9de36bee7.png)
-
-    
-</div>
 
  
 

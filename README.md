@@ -1,38 +1,22 @@
+      ## Hey, I'm Diego 👋
 
-<div align="center" >
-      <a href="https://github.com/deviego" style="display: flex;">
-     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=deviego&theme=dracula" alt="diego" />
-</div>
+      **Frontend Engineer** at a US adtech company — building and scaling high-converting quiz funnels and content platforms for users across 5 countries (US, Mexico, Argentina, Colombia, South Africa).
+
+      Working remotely as an international contractor, across the full delivery cycle: architecture, CI/CD, AWS infrastructure, analytics/tracking, and AI developer tooling.
+
+      **🔭 Day-to-day —** Next.js · TypeScript · Strapi · AWS · Kubernetes · GitLab CI/CD
+
+      **🤖 Recent build —** an MCP server (TypeScript) connecting ClickUp + GitLab to Claude for AI-powered dev workflows in production
+
+      **🎓 Learning —** CS50 (Harvard) · Anthropic Academy · AWS Skill Builder
+
+      **🌎 Open to remote roles with US and international teams**
+
+      ### 🛠 Tech Stack
+
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,tailwind,aws,kubernetes,docker,mongodb,postgres,vite,git" />
+
+      ### 📫 Reach me
+
+      📩 diegodomingues266@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/diego-dominguesp)
       
-## 🛠 &nbsp;Tech Stack | Tool
-      
-<div ><br>
-   
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,tailwind,styledcomponents,figma,heroku,aws,mongodb,sqlite,vite,express,vscode,git" />
-  </a>
-     
-  <img align="right" alt="Notebook and coffe" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
-    
-</div>
-
-
-## &nbsp;Contact 
-
-<div align="left">
- <a href="mailto:diegodomingues266@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/diego-dominguesp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-      
-</div>
-
-
-
-
- 
-
-
-
